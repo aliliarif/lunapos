@@ -1,9 +1,9 @@
 # lunapos
 POS system for warehouse.
 
-Technologies:
--Codeigniter
--jQuery
--AJAX
--HTML,HTML5,Bootstrap
--MySQL
+Technologies: <br />
+-Codeigniter <br />
+-jQuery <br />
+-AJAX <br />
+-HTML,HTML5,Bootstrap <br />
+-MySQL <br />
